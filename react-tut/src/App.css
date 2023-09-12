@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  color: black;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+}
+.header{
+  background-color: slategrey;
+  color: white;
+  padding: 10px;
+}
+.header h1{
+  margin: 0;
+}
+.txtField{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+}
+.data{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.data_val{
+  display: flex;
+  justify-content: space-between;
+  width: 36%;
+  background-color: thistle;
+  padding: 5px;
+}
+/* .uiBind{
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+  text-align: start;
+} */
